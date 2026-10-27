@@ -8,7 +8,7 @@
 
 ## 💼 About Me
 
-Hi! I'm a passionate **Java Developer** with **2+ years** of hands-on experience building robust, scalable backend systems. I specialize in creating microservices architectures and RESTful APIs that power modern applications. I love turning complex problems into elegant solutions and continuously exploring new technologies to enhance my craft.
+Hi! I'm a passionate **Java Developer** with hands-on experience building robust, scalable backend systems. I specialize in creating microservices architectures and RESTful APIs that power modern applications. I love turning complex problems into elegant solutions and continuously exploring new technologies to enhance my craft.
 
 ### 🚀 What I Do
 
